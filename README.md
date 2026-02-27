@@ -16,3 +16,5 @@ This repository contains Python code for applying Russian case transformations. 
 
 ## License:
 This project is open-source. Feel free to contribute!
+## Paper
+The full project paper is available in the `project_paper.tex` file, which describes the rules, testing, and results.
